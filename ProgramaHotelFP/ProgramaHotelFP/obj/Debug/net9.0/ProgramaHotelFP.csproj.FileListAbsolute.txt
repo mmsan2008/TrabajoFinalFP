@@ -1,0 +1,15 @@
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.AssemblyInfoInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.AssemblyInfo.cs
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.csproj.CoreCompileInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.sourcelink.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\bin\Debug\net9.0\ProgramaHotelFP.exe
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\bin\Debug\net9.0\ProgramaHotelFP.deps.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\bin\Debug\net9.0\ProgramaHotelFP.runtimeconfig.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\bin\Debug\net9.0\ProgramaHotelFP.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\bin\Debug\net9.0\ProgramaHotelFP.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\refint\ProgramaHotelFP.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ProgramaHotelFP.genruntimeconfig.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\ProgramaHotelFP\ProgramaHotelFP\obj\Debug\net9.0\ref\ProgramaHotelFP.dll
