@@ -1,0 +1,15 @@
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\bin\Debug\net8.0\ProgramaFinalFp2.exe
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\bin\Debug\net8.0\ProgramaFinalFp2.deps.json
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\bin\Debug\net8.0\ProgramaFinalFp2.runtimeconfig.json
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\bin\Debug\net8.0\ProgramaFinalFp2.dll
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\bin\Debug\net8.0\ProgramaFinalFp2.pdb
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.AssemblyInfoInputs.cache
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.AssemblyInfo.cs
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.csproj.CoreCompileInputs.cache
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.sourcelink.json
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.dll
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\refint\ProgramaFinalFp2.dll
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.pdb
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ProgramaFinalFp2.genruntimeconfig.cache
+C:\Users\B09S206est\Desktop\final fp\TrabajoFinalFP\ProgramaFinalFp2\ProgramaFinalFp2\obj\Debug\net8.0\ref\ProgramaFinalFp2.dll
